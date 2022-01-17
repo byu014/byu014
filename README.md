@@ -8,7 +8,7 @@ Fun Fact :school_satchel: : I attended a boarding school in China in first grade
 ## Skills :bulb:
 Frontend :computer: - JavaScript, HTML5, CSS3, React
 <br/>
-Backend :lock: - Node.js, Express.js, Postgresql/pg, MongoDB/Mongoose
+Backend :lock: - Node.js, Express.js, PostgreSQL/pg, MongoDB/Mongoose
 <br/>
 Other Languages/Tools :wrench: - Python, C++, npm, Webpack, Babel, Git
 
