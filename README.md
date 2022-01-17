@@ -3,7 +3,7 @@ I'm Bailey, full stack web developer. I work with but not limited to: React, Exp
 
 <br/>
 
-Fun Fact :bulb: : I was attended a boarding school in China in first grade.
+Fun Fact :school_satchel: : I was attended a boarding school in China in first grade.
 
 ## Skills :bulb:
 Frontend :computer: - JavaScript, HTML5, CSS3, React
