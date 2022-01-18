@@ -14,3 +14,4 @@ Other Languages/Tools :wrench: - Python, C++, npm, Webpack, Babel, Git
 
 ## Links :link:
 [LinkedIn](https://www.linkedin.com/in/bailey-yu/)
+[Resume](https://drive.google.com/file/d/1KOw6GDMqtofQlbKOdodlO7m6-X-xBAwr/view?usp=sharing)
